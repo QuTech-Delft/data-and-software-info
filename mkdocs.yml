@@ -12,7 +12,7 @@ nav:
       - software/index.md
       - "Software Quality and Reproducible Software": software/quality.md
       - "Software Testing": software/testing.md
-      - "Vesrion Control Systems": software/vcs.md
+      - "Version Control Systems": software/vcs.md
 
 theme:
   name: material
