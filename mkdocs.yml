@@ -6,8 +6,14 @@ repo_name: 'QuTech-Delft/data-and-software-info'
 repo_url: 'https://github.com/QuTech-Delft/data-and-software-info'
 nav:
     - Home: index.md
-    - Data: data/index.md
-    - Software: softare/index.md
+    - Data: 
+      - data/index.md
+    - Software: 
+      - software/index.md
 
 theme:
-  name: 'material'
+  name: material
+  features:
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.tracking
