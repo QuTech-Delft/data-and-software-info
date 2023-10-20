@@ -3,8 +3,11 @@ site_description: 'Information for researchers at QuTech on Data & Software Deve
 site_author: 'QuTech'
 docs_dir: docs/
 repo_name: 'QuTech-Delft/data-and-software-info'
-repo_url: 'https://github.com/QuTech-Delft/data-and-software-info/settings/pages'
+repo_url: 'https://github.com/QuTech-Delft/data-and-software-info'
 nav:
     - Home: index.md
+    - Data: data/index.md
+    - Software: softare/index.md
+
 theme:
   name: 'material'

@@ -9,3 +9,5 @@ To get started with local development of this site run:
 ```bash
 docker-compose up -d
 ```
+
+This will start the server on localhost:8005.
