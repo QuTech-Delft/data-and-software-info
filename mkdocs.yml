@@ -1,0 +1,10 @@
+site_name: QuTech - Data & Software
+site_description: 'Information for researchers at QuTech on Data & Software Development'
+site_author: 'QuTech'
+docs_dir: docs/
+repo_name: 'QuTech-Delft/data-and-software-info'
+repo_url: 'https://github.com/QuTech-Delft/data-and-software-info/settings/pages'
+nav:
+    - Home: index.md
+theme:
+  name: 'material'

@@ -1,0 +1,19 @@
+version: "3"
+
+services:
+  mkdocs_qdl:
+    container_name: mkdocs_qt_ds
+    image: mkdocs
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: serve -f mkdocs.yml -a 0.0.0.0:8000
+    volumes:
+      - ./:/docs
+    ports:
+      - 8005:8000
+    restart: unless-stopped
+    labels:
+      - flame.type=app
+      - flame.name=QuTech - Data & Software
+      - flame.url=http://localhost:8000
