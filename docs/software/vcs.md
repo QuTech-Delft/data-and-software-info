@@ -1,5 +1,4 @@
 # Version Control Systems
-<!---TODO: add relevant links-->
 This page gives some information about version control systems. If you are already familiar with those you might want to skip ahead to see if the additional resources offer something new to learn for you. On this page we give a short description of the version control infrastructure available to researches at QuTech. If version control systems are new for you then will begin by explaining which problems they can help solve, how they do this and what tools you can use for this.
 
 ## Why?
@@ -35,14 +34,13 @@ Interested in version control systems, but unsure how to continue from here? You
 
 #### All Levels
 
-* Need a reminder of the commands used in Git? GitHub has a convenient cheat sheet:
-  * https://education.github.com/git-cheat-sheet-education.pdf
+* Need a reminder of the commands used in Git? GitHub has a convenient [cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf):
 * Would you rather use a GUI instead of (or in combination with) command line commands? A few different GUIs are availabe, some examples:
-  * Sourcetree
+  * [Sourcetree](https://www.sourcetreeapp.com/):
     * Free and popular GUI with a lot of features
-  * Fork
+  * [Fork](https://git-fork.com/)
     * Free at the moment, most likely will cost some money in the future
-  * GitHub Desktop
+  * [GitHub Desktop](https://desktop.github.com/)
     * Free. Generally easy to use, but tailored to GitHub specifically
 
 #### Beginners
@@ -50,15 +48,15 @@ Interested in version control systems, but unsure how to continue from here? You
 Want to learn the basics of Git?
 
 * The TU Delft library offers three different courses which teach you about git (and give you graduate school credits!)
-  * A course specifically about Git: 
-  * A more general to refine your coding skills, which includes an introduction to Git: 
-  * A programming introduction course for researches with little to no experience with programming, which includes an introduction to Git: 
+  * (1.5 GS credits) A [course about Git](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers/version-control-collaborative-development-for-research-software)
+  * (2.5 GS credits) A [more general course](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers/coderefinery-workshops) to refine your coding skills, which includes an introduction to Git
+  * (1.5 GS credits) A [programming introduction course](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers/software-carpentry-workshops) for researches with little to no experience with programming, which includes an introduction to Git
 * Would you rather learn more about Git at your own pace?
-  * This interactive game learns you about Git commands through solving puzzles (you might need to disable your adblocker if you have one for it to work properly)
-  * This short freecodecamp tutorial explains how to get started with Git and GitHub:
+  * [This short freecodecamp tutorial](https://www.freecodecamp.org/news/introduction-to-git-and-github/) explains how to get started with Git and GitHub
+  * Want to learn Git while sovling puzzles? [This interactive game](https://learngitbranching.js.org/) teaches you about Git commands (you might need to disable your adblocker if you have one for it to work properly)
 
 #### Intermediate/Advanced
 
 * Do you know the basics, but want to know more about workflows to use Git to collaborate?
-  * GitLab has a brief overview of some different workflows and their advantages:  
-  * In this article Atlassian describes the basic “Centralized Workflow” and links to elaborate descriptions of other workflows:  
+  * GitLab has [an overview of some different workflows](https://about.gitlab.com/topics/version-control/what-is-git-workflow/) and their advantages:  
+  * In [this article](https://www.atlassian.com/git/tutorials/comparing-workflows) Atlassian describes the basic “Centralized Workflow” and links to elaborate descriptions of other workflows

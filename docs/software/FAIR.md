@@ -37,12 +37,12 @@ Level 1 is intended for scripts that are only used by one individual just to for
 A lot of research software also falls in category 2. With this software it is important that it can be reproduced. Whether that is by yourself when you want to run a similar or the same experiment again, or by someone else. Software that is used to actually run an experiment or analysis of data used in papers falls in this category. We often see that software that should have this maturity level is not actually easy to reproduce within QuTech. While making it reproducible often requires you to invest a little bit more time in the beginning of your project, we expect that throughout the duration of the project it will end up saving your time. We also provide you with some resources in the next section to get you started quickly.
 
 ## What?
-<!---TODO: add relevant links-->
 
 * Most software at QuTech is developed in Python. We have a template to get you started quickly with these principles in Python. With the template you can quickly create your python project adhering to QSSM 2 by answerring a few simple questions. The template can be foud on [github](https://github.com/QuTech-Delft/FAIR-Python-script-template).
 
-* There are also a few courses related to software development and reproducible software which can be followed for Graduate School Credits.
-
+* There are also a few courses related to software development and reproducible software which can be followed for Graduate School Credits. 
+  * (1.5 GS credits) A [course about Git](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers/version-control-collaborative-development-for-research-software)
+  * (2.5 GS credits) A [more general course](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers/coderefinery-workshops) to refine your coding skills, which includes an introduction to Git
+  * (1.5 GS credits) A [programming introduction course](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers/software-carpentry-workshops) for researches with little to no experience with programming, which includes an introduction to Git
 * For those that are interested in software quality in general other pages on this site also provides some info on other related topics and additional resources to learn more.
-
 * The SDST is also available if you have questions about any of these topics or if need some help with using the templates for example.
