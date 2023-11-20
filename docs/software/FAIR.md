@@ -1,4 +1,4 @@
-# Software Quality and Reproducible Software
+# FAIR Software (QSSM 2)
 
 ## Why?
 
@@ -16,6 +16,8 @@ In general it will also make your research more valuable to QuTech and the resea
 * Making it easier to reproduce the results of your research
 * Making it more transparent.
 * Making it easier to re-use your work in other research. Your software can have a legacy within QuTech or the research community, even after you have finished your own research.
+
+[FAIR Data and Software](https://www.go-fair.org/fair-principles/) is also becoming more of a hot topic each day in the research world. In the future it is likely that these principles become more important also in relation to the quality and funding of research. Already learning how to apply these principles to software will help you be ahead of the curve!
 
 ## How?
 
@@ -37,10 +39,10 @@ A lot of research software also falls in category 2. With this software it is im
 ## What?
 <!---TODO: add relevant links-->
 
-* Most software at QuTech is developed in Python. We provide some templates/examples to get you started on writing level 2 code in Python.
+* Most software at QuTech is developed in Python. We have a template to get you started quickly with these principles in Python. With the template you can quickly create your python project adhering to QSSM 2 by answerring a few simple questions. The template can be foud on [github](https://github.com/QuTech-Delft/FAIR-Python-script-template).
 
 * There are also a few courses related to software development and reproducible software which can be followed for Graduate School Credits.
 
-* For those that are interested in software quality in general this site also provides some info on a range of other topics and additional resources to learn more. 
+* For those that are interested in software quality in general other pages on this site also provides some info on other related topics and additional resources to learn more.
 
-* The SDST is also always available if you have questions about any of these topics or if need some help with using the templates for example.
+* The SDST is also available if you have questions about any of these topics or if need some help with using the templates for example.

@@ -10,4 +10,4 @@ To get started with local development of this site run:
 docker-compose up -d
 ```
 
-This will start the server on localhost:8005.
+This will start the server on localhost:8006.
