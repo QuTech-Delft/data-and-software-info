@@ -1,4 +1,4 @@
-# FAIR Software (QSSM 2)
+# FAIR Software (QSMM 2)
 
 ## Why?
 
@@ -38,11 +38,11 @@ A lot of research software also falls in category 2. With this software it is im
 
 ## What?
 
-* Most software at QuTech is developed in Python. We have a template to get you started quickly with these principles in Python. With the template you can quickly create your python project adhering to QSSM 2 by answerring a few simple questions. The template can be foud on [github](https://github.com/QuTech-Delft/FAIR-Python-script-template).
+* Most software at QuTech is developed in Python. We have a template to get you started quickly with these principles in Python. With the template you can quickly create your python project adhering to QSMM 2 by answering a few simple questions. The template can be found on [github](https://github.com/QuTech-Delft/FAIR-Python-script-template).
 
 * There are also a few courses related to software development and reproducible software which can be followed for Graduate School Credits. 
   * (1.5 GS credits) A [course about Git](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers/version-control-collaborative-development-for-research-software)
   * (2.5 GS credits) A [more general course](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers/coderefinery-workshops) to refine your coding skills, which includes an introduction to Git
   * (1.5 GS credits) A [programming introduction course](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers/software-carpentry-workshops) for researches with little to no experience with programming, which includes an introduction to Git
 * For those that are interested in software quality in general other pages on this site also provides some info on other related topics and additional resources to learn more.
-* The SDST is also available if you have questions about any of these topics or if need some help with using the templates for example.
+* The SDST is also available if you have questions about any of these topics or if you need some help with using the templates for example.

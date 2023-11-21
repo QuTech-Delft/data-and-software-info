@@ -10,7 +10,7 @@ nav:
       - data/index.md
     - Software: 
       - software/index.md
-      - "FAIR Software (QSSM 2)": software/FAIR.md
+      - "FAIR Software (QSMM 2)": software/FAIR.md
       - "Software Testing": software/testing.md
       - "Version Control Systems": software/vcs.md
 
