@@ -15,11 +15,11 @@ Software testing has the following advantages:
 
 ## What?
 
-When we talk about (automated) software testing then we define a few types of tests the main categories are:
+When we talk about (automated) software testing then we define a few types of tests. The main categories are:
 
 * End-to-end tests: These test the full working of your software. In the case of a simple script this could be a test which provides an input file and checks if the expected output file is created.
 * Unit tests: Unit tests test a smaller piece (unit) of your software. This can be for example a test of a single function which is used to process your results.
-* Integration tests:   Integration tests test tests your integrations with 3rd party services. E.g. if your application makes use of some third party software you test if the system works as expected when you combine your code with this third party software.
+* Integration tests: Integration tests test your integrations with 3rd party services. E.g. if your application makes use of some third party software you test if the system works as expected when you combine your code with this third party software.
 * Performance tests:  As the name suggests these test the performance of the system (e.g. how fast is a certain analysis?).
 
 When dealing with more simple research projects you are most likely interested in the first two: end-to-end tests and unit tests. When you are just starting out with automated testing we suggest focusing on end-to-end tests first as these will give you the best idea about whether your full software works as expected. Unit tests can then be used to more specifically test complex edge cases of a certain function or to pinpoint where the mistakes are in your code.
@@ -41,11 +41,12 @@ To start with software testing you need to consider two important questions:
     * That an error is thrown when the divider is 0.
 
 If you have answered these two questions you can start creating test cases which check this behaviour and their edge cases.
-Courses
+
+## Courses
 
 Want to learn more about software testing?
 
-* If you want to increase your software skills in general then the library offers a [coderefinery course](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers/coderefinery-workshops) which you can get graduate school credits for. This course is meant for people who already are able to program but would like to improve their skills. It also includes a part about software testing.
+* If you want to increase your software development skills in general then the library offers a [coderefinery course](https://www.tudelft.nl/library/research-data-management/r/training-evenementen/training-voor-onderzoekers/coderefinery-workshops) which you can get graduate school credits for. This course is meant for people who already are able to program but would like to improve their skills. It also includes a part about software testing.
 * If you want to learn more about advanced software testing topics then the TU Delft also offers some MOOCs on software testing. These are mostly here for people with a deep interest in software testing. We do not expect that you need the skills from these courses in your normal research.
   * [Automated Software Testing: Unit Testing, Coverage Criteria and Design for Testability](https://online-learning.tudelft.nl/courses/automated-software-testing-unit-testing-coverage-criteria-and-design-for-testability/)
   * [Automated Software Testing: Model and State-based Testing](https://online-learning.tudelft.nl/courses/automated-software-testing-model-and-state-based-testing/)
