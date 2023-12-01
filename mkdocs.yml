@@ -10,9 +10,15 @@ nav:
       - data/index.md
     - Software: 
       - software/index.md
+      - "FAIR Software (QSMM 2)": software/FAIR.md
+      - "Software Testing": software/testing.md
+      - "Version Control Systems": software/vcs.md
 
 theme:
   name: material
+  palette:
+    primary: 'blue'
+    accent: 'amber'
   features:
     - navigation.indexes
     - navigation.tabs

@@ -10,4 +10,8 @@ To get started with local development of this site run:
 docker-compose up -d
 ```
 
-This will start the server on localhost:8005.
+This will start the server on localhost:8006.
+
+## Deployment
+
+Github actions automatically deploys changes to the master branch. The live version this is deployed to can be found [here](https://qutech-delft.github.io/data-and-software-info/)

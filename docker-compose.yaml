@@ -11,7 +11,7 @@ services:
     volumes:
       - ./:/docs
     ports:
-      - 8005:8000
+      - 8006:8000
     restart: unless-stopped
     labels:
       - flame.type=app
